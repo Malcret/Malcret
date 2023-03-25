@@ -1,4 +1,4 @@
-### I'm Malcret, a C/C++ Developer
+### I'm Malcret, C/C++ Developer
 
 Self-taught, passionate by Mathematics, Physics, Computer Sciences and always learning new things.
 
