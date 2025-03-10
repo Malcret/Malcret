@@ -1,4 +1,4 @@
-Hi, I'm a **Low-Level Developer** with Autism (specific interest in low-level programming), primarily C focused, with some decent knowledge about assembly (primarily x86_64) and some Zig notions among other things. I really like to reimplement the wheel to learn and better understand how it works. I'm also a big Linux user (Arch BTW), I pretty much customized my entire [environement](https://github.com/Malcret/dotfiles), including my editor ([Neovim](https://github.com/Malcret/nulVim)).
+Hi, I'm a **Low-Level Developer** with **Autism** (specific interest in low-level programming), primarily C focused, with some decent knowledge about assembly (primarily x86_64) and some Zig notions among other things. I really like to reimplement the wheel to learn and better understand how it works. I'm also a big Linux user (Arch BTW), I pretty much customized my entire [environement](https://github.com/Malcret/dotfiles), including my editor ([Neovim](https://github.com/Malcret/nulVim)).
 
 > **_NOTE:_** Most of my projects are private on GitHub, which explains the low acitvity.
 
